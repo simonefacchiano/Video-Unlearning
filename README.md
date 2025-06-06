@@ -2,21 +2,16 @@
 [![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
 [![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://arxiv.org/pdf/2503.18674))
 
-The first training-free approach for unlearning sensitive or toxic concepts from a pre-trained Video Generation model. 🔮 💫
-
-Code will be made available soon... stay tuned! 🚀
-
-----
-
-
 > ## 🚧 Work in progress!
 >
+> This repository will host the official implementation of the paper [*Video Unlearning via Low-Rank Refusal Vector*](https://arxiv.org/pdf/2503.18674).
 > Code will be made available soon... stay tuned! 🚀 <br>
 > Feel free to **star** ⭐️  and **watch** 👁️ the repo to stay updated!
 
-This repository will host the official implementation of the paper [*Human Motion Unlearning*](https://arxiv.org/pdf/2503.18674).
+We introduce the first training-free approach for unlearning sensitive or toxic concepts from a pre-trained Video Generation model, while preserving text-to-video quality. 🔮 💫
 
-We introduce human motion unlearning to prevent toxic animation synthesis while preserving text-to-motion quality. We provide the first benchmark by filtering toxic samples from HumanML3D and Motion-X, and adapt image unlearning methods as baselines. We also propose *Latent Code Replacement (LCR)*, a simple, training-free method that outperforms all baselines.
+----
+### Qualitative examples
 
 *"A man does a run-up to **kick** something lying on the ground."*
 
