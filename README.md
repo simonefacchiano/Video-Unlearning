@@ -11,7 +11,7 @@ Code will be made available soon... stay tuned! 🚀
 
 > ## 🚧 Work in progress!
 >
-> This repository is public, but the code will be released soon.
+> Code will be made available soon... stay tuned! 🚀 \\
 > Feel free to **star** ⭐️  and **watch** 👁️ the repo to stay updated!
 
 This repository will host the official implementation of the paper [*Human Motion Unlearning*](https://arxiv.org/pdf/2503.18674).
