@@ -35,7 +35,7 @@ For more visualizations, check out our [project page](https://www.pinlab.org/xyz
 
 ## Announcements
 
-- **2025-06-06**:  The repository is live! Code and models will be available soon. Stay tuned!
+- **2025-06-06**:  The repository is live! Code and models will be available soon: stay tuned!
 
 ## Acknowledgements
 
