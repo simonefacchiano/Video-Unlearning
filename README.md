@@ -1,6 +1,6 @@
 # Video-Unlearning
-[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
-[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://arxiv.org/pdf/2503.18674))
+[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/xyz)
+[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/pdf/xxx.xxxxx))
 
 > ## 🚧 Work in progress!
 >
@@ -17,19 +17,19 @@ We introduce the first training-free approach for unlearning sensitive or toxic 
 
 | ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
-| ![before](assets/imgs/momask_1.gif) | ![after](assets/imgs/lcr_1.gif) |
+| ![before](assets/imgs/xyz.mp4) | ![after](assets/imgs/xyz.mp4) |
 
 *"A barista brewing coffee using a **Nespresso** machine."*
 
 | ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
-| ![before](assets/imgs/momask_2.gif) | ![after](assets/imgs/lcr_2.gif) |
+| ![before](assets/imgs/xyz.mp4) | ![after](assets/imgs/xyz.mp4) |
 
 *"A man drove a motorcycle **blindfolded** through a crowded market."*
 
 | ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
-| ![before](assets/imgs/momask_3.gif) | ![after](assets/imgs/lcr_3.gif) |
+| ![before](assets/imgs/xyz.mp4) | ![after](assets/imgs/xyz.mp4) |
 
 For more visualizations, check out our [project page](https://www.pinlab.org/xyz).
 
