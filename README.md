@@ -1,6 +1,6 @@
 # Video-Unlearning
 [![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
-[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://www.alphaxiv.org/abs/2504.04479))
+[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://arxiv.org/pdf/2503.18674))
 
 The first training-free approach for unlearning sensitive or toxic concepts from a pre-trained Video Generation model. 🔮 💫
 
