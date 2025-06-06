@@ -13,21 +13,21 @@ We introduce the first training-free approach for unlearning sensitive or toxic 
 ----
 ### Qualitative examples
 
-*"A man does a run-up to **kick** something lying on the ground."*
+*"**Leonardo DiCaprio** waving."*
 
-| ❌ Before (Toxic Motion) | ✅ After (Unlearned Motion) |
+| ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
 | ![before](assets/imgs/momask_1.gif) | ![after](assets/imgs/lcr_1.gif) |
 
-*"A man stands up from the ground and then **kicks with force**."*
+*"a barista brewing coffee using a **Nespresso** machine."*
 
-| ❌ Before (Toxic Motion) | ✅ After (Unlearned Motion) |
+| ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
 | ![before](assets/imgs/momask_2.gif) | ![after](assets/imgs/lcr_2.gif) |
 
-*"A man **punches** and then **kicks** the enemy."*
+*"A man drove a motorcycle **blindfolded** through a crowded market."*
 
-| ❌ Before (Toxic Motion) | ✅ After (Unlearned Motion) |
+| ❌ Before (Baseline Model) | ✅ After (Unlearned Concept) |
 |-------------------------|-----------------------------|
 | ![before](assets/imgs/momask_3.gif) | ![after](assets/imgs/lcr_3.gif) |
 
