@@ -1,14 +1,13 @@
 # Video-Unlearning
+[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
+[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://www.alphaxiv.org/abs/2504.04479))
+
 The first training-free approach for unlearning sensitive or toxic concepts from a pre-trained Video Generation model. 🔮 💫
 
 Code will be made available soon... stay tuned! 🚀
 
 ----
 
-# Human Motion Unlearning
-
-[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
-[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/2503.18674](https://www.alphaxiv.org/abs/2504.04479))
 
 > ## 🚧 Work in progress!
 >
