@@ -4,7 +4,7 @@
 
 > ## 🚧 Work in progress!
 >
-> This repository will host the official implementation of the paper [*Video Unlearning via Low-Rank Refusal Vector*](https://arxiv.org/pdf/2503.18674). <br>
+> This repository will host the official implementation of the paper [*Video Unlearning via Low-Rank Refusal Vector*](https://arxiv.org/pdf/xxxx.xxxxx). <br>
 > Code will be made available soon... stay tuned! 🚀 <br>
 > Feel free to **star** ⭐️  and **watch** 👁️ the repo to stay updated!
 
