@@ -1,6 +1,6 @@
 # Video-Unlearning
 [![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/video-unlearning)
-[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/pdf/xxx.xxxxx))
+[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.07891)
 
 > ## 🚧 Work in progress!
 >
@@ -52,4 +52,13 @@ For more visualizations, check out our [project page](https://www.pinlab.org/vid
 ## Citation
 
 ```bibtex
+@misc{facchiano2025videounlearninglowrankrefusal,
+      title={Video Unlearning via Low-Rank Refusal Vector}, 
+      author={Simone Facchiano and Stefano Saravalle and Matteo Migliarini and Edoardo De Matteis and Alessio Sampieri and Andrea Pilzer and Emanuele Rodolà and Indro Spinelli and Luca Franco and Fabio Galasso},
+      year={2025},
+      eprint={2506.07891},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.07891}, 
+}
 ```
